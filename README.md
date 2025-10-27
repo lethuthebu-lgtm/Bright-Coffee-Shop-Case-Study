@@ -10,6 +10,8 @@ Business Insights for a New CEO using Historical Transactional Data from Bright 
 # Tools used
 - Snowflake
 - Microsoft Excel
+- Miro
+- PowerPoint
 
 # Key Insights:
 • Sales by product category and time intervals
