@@ -8,7 +8,7 @@ Business Insights for a New CEO using Historical Transactional Data from Bright 
 • Recommendations for improving sales performance
 
 # Tools used
-- Snowflake
+- Databricks 
 - Microsoft Excel
 - Miro
 - PowerPoint
@@ -24,6 +24,6 @@ Outline the calculations to be performed:
 
 # Steps followed
 1. Planning on Miro
-2. Data Processing in Snowflake
+2. Data Processing in Databricks
 3. Data Analysis in Excel
 4. Presentation to the CEO
