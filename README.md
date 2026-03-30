@@ -1,4 +1,4 @@
-# Bright-Coffee-Shop-Case-Study
+# Bright-Coffee-Shop-Analysis
 Business Insights for a New CEO using Historical Transactional Data from Bright Coffee Shop.
 
 # Main obejectives:
